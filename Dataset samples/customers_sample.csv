@@ -1,0 +1,12 @@
+customer_id,customer_name,region,customer_type,onboarding_date
+1,Customer_1,East,Corporate,2021-06-16 06:24:32.314740
+2,Customer_2,West,Retail,2024-06-01 06:24:32.314773
+3,Customer_3,North,Retail,2024-11-25 06:24:32.314777
+4,Customer_4,East,Enterprise,2023-07-02 06:24:32.314780
+5,Customer_5,East,Corporate,2023-09-02 06:24:32.314783
+6,Customer_6,West,Retail,2023-10-16 06:24:32.314788
+7,Customer_7,North,Retail,2024-04-05 06:24:32.314790
+8,Customer_8,North,Corporate,2024-06-20 06:24:32.314794
+9,Customer_9,East,Retail,2021-04-01 06:24:32.314798
+10,Customer_10,South,Retail,2021-12-26 06:24:32.314801
+11,Customer_11,East,Corporate,2024-07-21 06:24:32.314804
